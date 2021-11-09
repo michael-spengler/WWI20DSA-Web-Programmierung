@@ -33,7 +33,7 @@ Wir sammeln die Vorschläge als [GitHub Issues](https://github.com/michael-speng
 
 ## Bewertungskriterien
 1. Die Web App funktioniert  
-2. Code Qualität (High Cohesion / Loose Coupling (im Backend: Jede public methode als Interface Methode definieren) / Separation of Concerns (no spaghetti code))  
+2. Code Qualität (High Cohesion / Loose Coupling / Separation of Concerns (no spaghetti code))  
 3. Dokumentation / Readme  
 4. Goodies: Demo Video  
 5. Die Gruppen haben nebenbei einzelne Module als Open Source Lösung bereitgestellt    
