@@ -28,7 +28,7 @@ Mi, 26.01.22 von 09:00 - 19:30 Uhr - [online](https://moodle.dhbw-mannheim.de/co
 7. Smart Contract Development: Ethereum Blockchain (in solidity via [remix.ethereum.org](https://remix.ethereum.org/))
 
 ## Projektvorschläge  
-"Think of an idea to change the world to the better via a web app and put it into action."   
+"Think of an idea to change the world to the better via a web app and put it [into action](https://www.youtube.com/watch?v=fa7R-sOM1v8)."   
 Wir sammeln die Vorschläge als [GitHub Issues]()   
 
 ## Bewertungskriterien
