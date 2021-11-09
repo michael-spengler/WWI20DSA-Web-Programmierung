@@ -6,7 +6,7 @@
 ## Termine
 Siehe auch [Kalender](https://calendar.google.com/calendar/embed?src=g7o3rd7djlvq3gtjpg3pblm2vc%40group.calendar.google.com&ctz=Europe%2FBerlin
 )  
-Fr, 03.12.21 von 09:00 - 12:00 Uhr - Präsenz Raum 069C  
+Fr, 03.12.21 von 09:00 - 12:00 Uhr - Präsenz im Raum 069C  
 Mo, 20.12.21 von 09:30 - 12:00 Uhr - [online](https://moodle.dhbw-mannheim.de/course/view.php?id=6672
 )  
 Mi. 05.01.22 von 13:30 - 16:30 Uhr - [online](https://moodle.dhbw-mannheim.de/course/view.php?id=6672
@@ -19,7 +19,7 @@ Mi, 26.01.22 von 09:00 - 19:30 Uhr - [online](https://moodle.dhbw-mannheim.de/co
 )   
 
 ## Technologische Inhalte
-1. Grundlagen: HTML, CSS, JavaScript, TypeScript
+1. Grundlagen: HTML, CSS, JavaScript, [TypeScript](https://www.typescriptlang.org/)
 2. Frontendentwicklungsframeworks: VueJS, Angular, [Svelte](https://svelte.dev/) (Fokus auf Svelte)
 3. Backend Laufzeitumgebungen: NodeJS, [Deno](https://deno.land/) (Fokus auf Deno)
 4. Backendentwicklungsframeworks wie [NestJS](https://nestjs.com/)   
