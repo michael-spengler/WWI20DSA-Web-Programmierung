@@ -31,9 +31,6 @@ Mi, 26.01.22 von 09:00 - 19:30 Uhr - [online](https://moodle.dhbw-mannheim.de/co
 "Think of an idea to change the world to the better via a web app and put it into action."   
 Wir sammeln die Vorschläge als [GitHub Issues]()   
 
-## Vorlesungs Inhalte - Chronik
-... wird synchron mit den Studierenden erarbeitet - als Inspiration können [vorangegangene Web-Programmierung Vorlesungsreihen](https://github.com/michael-spengler/wwi19seb-webprogrammierung) dienen. Gleichzeitig lege ich Wert darauf, dass wir stets möglichst aktuelle Technologien erkunden.  
-
 ## Bewertungskriterien
 1. Die Web App funktioniert  
 2. Code Qualität (High Cohesion / Loose Coupling (im Backend: Jede public methode als Interface Methode definieren) / Separation of Concerns (no spaghetti code))  
@@ -87,6 +84,8 @@ Im Rahmen von kreativen Pausen :) erkunden, bewerten und erweitern wir Deno Modu
 
 
 ## Planung & Chronik  
+... wird synchron mit den Studierenden erarbeitet - als Inspiration können [vorangegangene Web-Programmierung Vorlesungsreihen](https://github.com/michael-spengler/wwi19seb-webprogrammierung) dienen. Gleichzeitig lege ich Wert darauf, dass wir stets möglichst aktuelle Technologien erkunden.  
+
 ### 03.12.2021 (Raum 069C)
 1. Kennenlernen vor Ort     
 2. Gemeinsame Erkundung: Was bedeutet Web Programmierung für Euch? Was wisst ihr grob schon darüber? Was würdet ihr gerne wissen oder gut können?   
