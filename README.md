@@ -29,14 +29,15 @@ Mi, 26.01.22 von 09:00 - 19:30 Uhr - [online](https://moodle.dhbw-mannheim.de/co
 
 ## Projektvorschläge  
 "Think of an idea to change the world to the better via a web app and put it [into action](https://www.youtube.com/watch?v=fa7R-sOM1v8)."   
-Wir sammeln die Vorschläge als [GitHub Issues](https://github.com/michael-spengler/WWI20DSA-Web-Programmierung/issues)   
+Wir sammeln die Vorschläge als [GitHub Issues](https://github.com/michael-spengler/WWI20DSA-Web-Programmierung/issues).   
 
 ## Bewertungskriterien
 1. Die Web App funktioniert  
 2. Code Qualität (High Cohesion / Loose Coupling (im Backend: Jede public methode als Interface Methode definieren) / Separation of Concerns (no spaghetti code))  
 3. Dokumentation / Readme  
 4. Goodies: Demo Video  
-5. Die Gruppen haben nebenbei einzelne Module als Open Source Lösung bereitgestellt  
+5. Die Gruppen haben nebenbei einzelne Module als Open Source Lösung bereitgestellt    
+6. Alle zentralen Methoden im Backend haben eine gute Unit Tests Coverage  
 
 ## Pausenaufgaben
 Im Rahmen von kreativen Pausen :) erkunden, bewerten und erweitern wir Deno Module wie z.B.   
