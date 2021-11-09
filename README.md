@@ -22,7 +22,7 @@ Mi, 26.01.22 von 09:00 - 19:30 Uhr - [online](https://moodle.dhbw-mannheim.de/co
 1. Grundlagen: HTML, CSS, JavaScript, TypeScript
 2. Frontendentwicklungsframeworks: VueJS, Angular, [Svelte](https://svelte.dev/) (Fokus auf Svelte)
 3. Backend Laufzeitumgebungen: NodeJS, [Deno](https://deno.land/) (Fokus auf Deno)
-4. Backendentwicklungsframeworks wie NestJS 
+4. Backendentwicklungsframeworks wie [NestJS](https://nestjs.com/)   
 5. Testframeworks: z.B. [CodeceptJS](https://codecept.io/) and their usage for Web Harvesting / Web Crawling
 6. Chat Bot Integrationen: [Telegram](https://telegram.org), Slack, Discord, Reddit, Twitter    
 7. Smart Contract Development: Ethereum Blockchain (in solidity via [remix.ethereum.org](https://remix.ethereum.org/))
@@ -75,8 +75,7 @@ Im Rahmen von kreativen Pausen :) erkunden, bewerten und erweitern wir Deno Modu
 ## Empfehlungen auf dem Pfad der Erkenntnis
 1. Investiere ein paar Stunden in freies Experimentieren bei [w3 schools](https://www.w3schools.com)   
 2. Ziehe Dir [dieses Video](https://www.youtube.com/watch?v=mhnpeOLiQTg) rein
-3. Experimentiere mit NodeJS und Deno 
-4. Stelle Fragen per Telegram Channel oder per stackoverflow - auch wenn die Fragen vielleicht "dumm" erscheinen.  
+3. Stelle Fragen per Telegram Channel oder per stackoverflow - auch wenn die Fragen vielleicht "dumm" erscheinen.  
 
 ## Skills des Dozenten
 1. Chat Bots  
