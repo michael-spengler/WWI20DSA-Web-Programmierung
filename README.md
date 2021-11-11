@@ -107,24 +107,24 @@ Im Rahmen von kreativen Pausen :) erkunden, bewerten und erweitern wir Deno Modu
 4. Erste Gruppenarbeitssessions  
 
 ### Mi. 05.01.22 von 13:30 - 16:30 Uhr
-1. Meilensteinchecks bzgl. des Gruppenfortschritts mit Q & A & Feedback an den Dozenten  
+1. Meilensteinchecks bzgl. des Gruppenfortschritts mit Q & A & [Feedback an den Dozenten](https://github.com/michael-spengler/WWI20DSA-Web-Programmierung/issues/5)  
 2. Backendentwicklungsfokus: Frameworks wie [NestJS](https://nestjs.com/) & [Dockerisierung](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)    
 3. Testframeworks: z.B. [CodeceptJS](https://codecept.io/) and their usage for Web Harvesting / Web Crawling  
 4. Gruppenarbeitssessions  
 
 ### Do, 13.01.22 von 13:30 - 19:30 Uhr
-1. Meilensteinchecks bzgl. des Gruppenfortschritts mit Q & A & Feedback an den Dozenten       
+1. Meilensteinchecks bzgl. des Gruppenfortschritts mit Q & A & [Feedback an den Dozenten](https://github.com/michael-spengler/WWI20DSA-Web-Programmierung/issues/5)         
 2. Chat Bot Integrationen: [Telegram](https://telegram.org), Slack, Discord, Reddit, Twitter     
 3. Smart Contract Development: Ethereum Blockchain (in solidity via [remix.ethereum.org](https://remix.ethereum.org/))  
 4. Gruppenarbeitssessions   
 
 ### Mo, 17.01.22 von 13:30 - 16:30 Uhr
-1. Meilensteinchecks bzgl. des Gruppenfortschritts mit Q & A & Feedback an den Dozenten          
+1. Meilensteinchecks bzgl. des Gruppenfortschritts mit Q & A & [Feedback an den Dozenten](https://github.com/michael-spengler/WWI20DSA-Web-Programmierung/issues/5)            
 2. Interimsbenotung, damit jeder grob weiß wo er mit der bisherigen Leistung grob unterwegs ist  
 3. Gruppenarbeitssessions
 
 ### Mi, 26.01.22 von 09:00 - 19:30 Uhr
-1. Meilensteinchecks bzgl. des Gruppenfortschritts mit Q & A & Feedback an den Dozenten       
+1. Meilensteinchecks bzgl. des Gruppenfortschritts mit Q & A & [Feedback an den Dozenten](https://github.com/michael-spengler/WWI20DSA-Web-Programmierung/issues/5)         
 2. Erweiterte (detaillierte) Interimsbenotung 
 3. Gruppenarbeitssessions / Finalisierungen
 
