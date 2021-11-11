@@ -31,7 +31,7 @@ Mi, 26.01.22 von 09:00 - 19:30 Uhr - [online](https://moodle.dhbw-mannheim.de/co
 "Think of an idea to change the world to the better via a web app and put it [into action](https://www.youtube.com/watch?v=fa7R-sOM1v8)."   
 Wir sammeln die Vorschläge als [GitHub Issues](https://github.com/michael-spengler/WWI20DSA-Web-Programmierung/issues).   
 Die ideale Gruppengröße für den individuellen Lernerfolg, den Gruppenerfolg und den Kurserfolg liegt m.E. bei 4 - 6 Personen.   
-Für die Bewertung werde ich mir die Github Commit Historie zu den einzelnen Projekten anschauen und vielleicht kurze Kontrollfragen stellen um sicherzustellen, dass nicht ein überflieger unter unterschiedlichen GitHub User Names für die gesamte Gruppe agiert und die anderen Gruppenmitglieder nur chillen.   
+Für die Bewertung werde ich mir die Github Commit Historie zu den einzelnen Projekten anschauen und vielleicht kurze Kontrollfragen stellen um sicher zu sein, dass nicht ein Überflieger mit unterschiedlichen GitHub User Names für die gesamte Gruppe agiert und die anderen Gruppenmitglieder nur chillen.   
 
 ## Bewertungskriterien
 1. Die Web App funktioniert  
@@ -90,18 +90,43 @@ Im Rahmen von kreativen Pausen :) erkunden, bewerten und erweitern wir Deno Modu
 ## Planung & Chronik  
 ... wird synchron mit den Studierenden erarbeitet - als Inspiration können [vorangegangene Web-Programmierung Vorlesungsreihen](https://github.com/michael-spengler/wwi19seb-webprogrammierung) dienen. Gleichzeitig lege ich Wert darauf, dass wir stets möglichst aktuelle Technologien erkunden.  
 
-### 03.12.2021 (Raum 069C)
+### Fr, 03.12.21 von 09:00 - 12:00 Uhr (Raum 069C)
 1. Kennenlernen vor Ort     
 2. Gemeinsame Erkundung: Was bedeutet Web Programmierung für Euch? Was wisst ihr grob schon darüber? Was würdet ihr gerne wissen oder gut können?   
 3. Was gefällt Euch nicht so gut an der Welt? Wie könnten wir das durch die Bereitstellung einer Web App [lösen](https://www.youtube.com/watch?v=fa7R-sOM1v8)?   
 4. Konkrete Themensammlung   
 5. Gruppenfindung   
 6. Installationscheck der unter "Voraussetzungen" aufgelisteten Tools... mit gegenseitiger Hilfe bei Challenges   
-7. Exkursvorschlag: Test Driven Development, Test Doubles...
+7. Exkursvorschläge: Clientcode vs. Servercode / Test Driven Development, Test Doubles...
  
 
-### 20.12.2021 (online)
-tbd
+### Mo, 20.12.21 von 09:30 - 12:00 Uhr (online)
+1. [Grundlagen]([w3 schools](https://www.w3schools.com))   
+2. Frontendentwicklungsframeworks: VueJS, Angular, [Svelte](https://svelte.dev/) (Fokus auf Svelte)   
+3. Backend Laufzeitumgebungen: NodeJS, [Deno](https://deno.land/) (Fokus auf Deno)  
+4. Erste Gruppenarbeitssessions  
+
+### Mi. 05.01.22 von 13:30 - 16:30 Uhr
+1. Meilensteinchecks bzgl. des Gruppenfortschritts mit Q & A & Feedback an den Dozenten  
+2. Backendentwicklungsfokus: Frameworks wie [NestJS](https://nestjs.com/) & [Dockerisierung](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)    
+3. Testframeworks: z.B. [CodeceptJS](https://codecept.io/) and their usage for Web Harvesting / Web Crawling  
+4. Gruppenarbeitssessions  
+
+### Do, 13.01.22 von 13:30 - 19:30 Uhr
+1. Meilensteinchecks bzgl. des Gruppenfortschritts mit Q & A & Feedback an den Dozenten       
+2. Chat Bot Integrationen: [Telegram](https://telegram.org), Slack, Discord, Reddit, Twitter     
+3. Smart Contract Development: Ethereum Blockchain (in solidity via [remix.ethereum.org](https://remix.ethereum.org/))  
+4. Gruppenarbeitssessions   
+
+### Mo, 17.01.22 von 13:30 - 16:30 Uhr
+1. Meilensteinchecks bzgl. des Gruppenfortschritts mit Q & A & Feedback an den Dozenten          
+2. Interimsbenotung, damit jeder grob weiß wo er mit der bisherigen Leistung grob unterwegs ist  
+3. Gruppenarbeitssessions
+
+### Mi, 26.01.22 von 09:00 - 19:30 Uhr
+1. Meilensteinchecks bzgl. des Gruppenfortschritts mit Q & A & Feedback an den Dozenten       
+2. Erweiterte (detaillierte) Interimsbenotung 
+3. Gruppenarbeitssessions / Finalisierungen
 
 
 ## Telegram Link
