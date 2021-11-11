@@ -88,7 +88,7 @@ Im Rahmen von kreativen Pausen :) erkunden, bewerten und erweitern wir Deno Modu
 
 
 ## Planung & Chronik  
-... wird synchron mit den Studierenden erarbeitet - als Inspiration können [vorangegangene Web-Programmierung Vorlesungsreihen](https://github.com/michael-spengler/wwi19seb-webprogrammierung) dienen. Gleichzeitig lege ich Wert darauf, dass wir stets möglichst aktuelle Technologien erkunden.  
+... wird im Detail synchron mit den Studierenden erarbeitet - die grobe Planung befindet Sich im Folgenden - als zusätzliche Inspiration können [vorangegangene Web-Programmierung Vorlesungsreihen](https://github.com/michael-spengler/wwi19seb-webprogrammierung) dienen. Gleichzeitig lege ich Wert darauf, dass wir stets möglichst aktuelle Technologien erkunden.  
 
 ### Fr, 03.12.21 von 09:00 - 12:00 Uhr (Raum 069C)
 1. Kennenlernen vor Ort     
