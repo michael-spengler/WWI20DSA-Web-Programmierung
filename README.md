@@ -74,18 +74,9 @@ Im Rahmen von kreativen Pausen :) erkunden, bewerten und erweitern wir Deno Modu
 6. https://deno.land/
 
 ## Empfehlungen auf dem Pfad der Erkenntnis
-1. Investiere ein paar Stunden in freies Experimentieren bei [w3 schools](https://www.w3schools.com)   
+1. Investiere ein paar Stunden in freies Experimentieren z.B. bei [w3 schools](https://www.w3schools.com)   
 2. Ziehe Dir [dieses Video](https://www.youtube.com/watch?v=mhnpeOLiQTg) rein
-3. Stelle Fragen per Telegram Channel oder per stackoverflow - auch wenn die Fragen vielleicht "dumm" erscheinen.  
-
-## Skills des Dozenten
-1. Chat Bots  
-2. Blockchains / DLT / Smart Contract Development  
-3. Progressive Web Apps (Backend: Deno, Frontend: Svelte)  
-4. Web Harvesting / Web Crawling (e.g. to solve the chicken and egg problem)  
-5. Natural Language Processing (NLP)  
-6. Machine Learning (Basics)  
-
+3. Stelle Fragen per [stackoverflow](https://stackoverflow.com/) und poste den Link zur Frage in unseren Telegram Channel - auch wenn Dir die Fragen "möglicherweise dumm" erscheinen.  
 
 ## Planung & Chronik  
 ... wird im Detail synchron mit den Studierenden erarbeitet - die grobe Planung befindet Sich im Folgenden - als zusätzliche Inspiration können [vorangegangene Web-Programmierung Vorlesungsreihen](https://github.com/michael-spengler/wwi19seb-webprogrammierung) dienen. Gleichzeitig lege ich Wert darauf, dass wir stets möglichst aktuelle Technologien erkunden.  
@@ -101,7 +92,7 @@ Im Rahmen von kreativen Pausen :) erkunden, bewerten und erweitern wir Deno Modu
  
 
 ### Mo, 20.12.21 von 09:30 - 12:00 Uhr (online)
-1. [Grundlagen]([w3 schools](https://www.w3schools.com))   
+1. [Grundlagen](w3 schools](https://www.w3schools.com)   
 2. Frontendentwicklungsframeworks: VueJS, Angular, [Svelte](https://svelte.dev/) (Fokus auf Svelte)   
 3. Backend Laufzeitumgebungen: NodeJS, [Deno](https://deno.land/) (Fokus auf Deno)  
 4. Erste Gruppenarbeitssessions  
