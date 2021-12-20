@@ -38,8 +38,9 @@ Für die Bewertung werde ich mir die Github Commit Historie zu den einzelnen Pro
 2. Code Qualität (High Cohesion / Loose Coupling / Separation of Concerns (no spaghetti code))  
 3. Dokumentation / Readme  
 4. Goodies: Demo Video  
-5. Die Gruppen haben nebenbei einzelne Module als Open Source Lösung bereitgestellt    
+5. Die Gruppen haben nebenbei einzelne Module als Open Source Lösung bereitgestellt oder optimiert    
 6. Alle zentralen Methoden im Backend haben eine gute Unit Tests Coverage  
+
 
 ## Pausenaufgaben
 Im Rahmen von kreativen Pausen :) erkunden, bewerten und erweitern wir Deno Module wie z.B.   
