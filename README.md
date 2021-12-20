@@ -30,7 +30,7 @@ Mi, 26.01.22 von 09:00 - 19:30 Uhr - [online](https://moodle.dhbw-mannheim.de/co
 ## Projektvorschläge  
 "Think of an idea to change the world to the better via a web app and put it [into action](https://www.youtube.com/watch?v=fa7R-sOM1v8)."   
 Wir sammeln die Vorschläge als [GitHub Issues](https://github.com/michael-spengler/WWI20DSA-Web-Programmierung/issues).   
-Die ideale Gruppengröße für den individuellen Lernerfolg, den Gruppenerfolg und den Kurserfolg liegt m.E. bei 4 - 6 Personen.   
+Die ideale Gruppengröße für den individuellen Lernerfolg, den Gruppenerfolg und den Kurserfolg liegt m.E. bei 3 - 6 Personen.   
 Für die Bewertung werde ich mir die Github Commit Historie zu den einzelnen Projekten anschauen und vielleicht kurze Kontrollfragen stellen um sicher zu sein, dass nicht ein Überflieger mit unterschiedlichen GitHub User Names für die gesamte Gruppe agiert und die anderen Gruppenmitglieder nur chillen.   
 
 ## Bewertungskriterien
