@@ -36,10 +36,11 @@ Für die Bewertung werde ich mir die Github Commit Historie zu den einzelnen Pro
 ## Bewertungskriterien
 1. Die Web App funktioniert  
 2. Code Qualität (High Cohesion / Loose Coupling / Separation of Concerns (no spaghetti code))  
-3. Dokumentation / Readme  
+3. Dokumentation / Readme   
 4. Goodies: Demo Video  
 5. Die Gruppen haben nebenbei einzelne Module als Open Source Lösung bereitgestellt oder optimiert    
-6. Alle zentralen Methoden im Backend haben eine gute Unit Tests Coverage  
+6. Alle zentralen Methoden im Backend haben eine gute Unit Tests Coverage   
+7. Ich gebe gerne und meistens Gruppennoten - Ausnahme: Extreme Einseitigkeiten in der Gruppenarbeit  
 
 
 ## Pausenaufgaben
